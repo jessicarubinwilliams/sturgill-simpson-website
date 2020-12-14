@@ -1,0 +1,32 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: rgb(115, 211, 166);
+  border-style: groove;
+  border-color: rgb(226, 88, 111);
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
